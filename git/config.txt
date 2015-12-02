@@ -1,0 +1,7 @@
+# Author info
+git config --global user.name  "Jake Curran"
+git config --global user.email "me@jakecurran.xyz"
+
+# Credentials temporary caching
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
