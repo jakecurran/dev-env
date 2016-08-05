@@ -1,6 +1,6 @@
 # Author info
 git config --global user.name  "Jake Curran"
-git config --global user.email "me@jakecurran.xyz"
+git config --global user.email "jc@jakecurran.com"
 
 # Credentials temporary caching
 git config --global credential.helper cache
