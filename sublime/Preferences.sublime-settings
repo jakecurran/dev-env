@@ -6,6 +6,8 @@
   "font_size": 11,
   "font_face": "Inconsolata-dz",
 
+  "rulers": [80, 120],
+
   "always_show_minimap_viewport": true,
   "default_line_ending": "unix",
   "ensure_newline_at_eof_on_save": true,
