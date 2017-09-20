@@ -10,10 +10,12 @@
 
   "always_show_minimap_viewport": true,
   "default_line_ending": "unix",
+  "trim_trailing_white_space_on_save": true,
   "ensure_newline_at_eof_on_save": true,
+  "ignored_packages": ["Vintage"],
   "open_files_in_new_window": false,
   "scroll_past_end": true,
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": false,
-  "trim_trailing_white_space_on_save": true
+  "word_wrap": "false"
 }
