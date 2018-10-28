@@ -1,21 +1,17 @@
 {
-  "theme": "Soda Dark 3.sublime-theme",
-  "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-
-  "tab_size": 2,
-  "font_size": 11,
-  "font_face": "Inconsolata-dz",
-
-  "rulers": [80, 120],
-
   "always_show_minimap_viewport": true,
+  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
   "default_line_ending": "unix",
-  "trim_trailing_white_space_on_save": true,
   "ensure_newline_at_eof_on_save": true,
-  "ignored_packages": ["Vintage"],
+  "font_face": "Inconsolata-dz",
+  "font_size": 11,
   "open_files_in_new_window": false,
+  "rulers": [80, 120],
   "scroll_past_end": true,
+  "tab_size": 2,
+  "theme": "Soda Dark 3.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": false,
+  "trim_trailing_white_space_on_save": true,
   "word_wrap": "false"
 }
