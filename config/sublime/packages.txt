@@ -1,8 +1,5 @@
-MarkdownLivePreview
 Markdown Extended
 Markdown Preview
 Monokai Extended
 Package Control
-PowerShell
-SideBarEnhancements
-Theme - Soda
+
