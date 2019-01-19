@@ -5,3 +5,5 @@
   helper = cache --timeout=3600
 [alias]
   difftool = difftool --dir-diff
+[core]
+  editor = vim
