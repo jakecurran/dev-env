@@ -6,7 +6,7 @@
   "font_face": "Inconsolata-dz",
   "font_size": 11,
   "open_files_in_new_window": false,
-  "rulers": [80, 120],
+  "rulers": [80, 100, 120],
   "scroll_past_end": true,
   "tab_size": 2,
   "theme": "Adaptive.sublime-theme",
