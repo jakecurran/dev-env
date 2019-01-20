@@ -1,5 +1,6 @@
 Markdown Extended
-Markdown Preview
+MarkdownPreview
 Monokai Extended
 Package Control
-
+Rust Enhanced
+TOML
