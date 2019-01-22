@@ -70,6 +70,15 @@ sudo apt install snapd flatpak
 - VNC Viewer
 - WireShark
 
+## Install Fonts
+
+- [Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
+
+### GNOME Tweaks
+
+- Fonts -> Monospace Text -> Hack Regular
+- Window Titlebars -> Enable Minimize titlebar button
+
 ### Sublime Text
 
 - Enter license
@@ -82,16 +91,8 @@ sudo apt install snapd flatpak
 
 - `/home/jakecurran/[Gmail address]`
 
-### GNOME Tweaks
-
-- Window Titlebars -> Enable Minimize titlebar button
-
 ### VNC Connect
 
 - Run `vnclicensewiz` and login to RealVNC
 - Start VNC Connect: `sudo systemctl start vncserver-x11-serviced.service`
 - Set to start on login: `sudo systemctl enable vncserver-x11-serviced.service`
-
-## Install Fonts
-
-- Inconsolata-dz
