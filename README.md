@@ -15,11 +15,16 @@ sudo apt update
 sudo apt upgrade
 ```
 
-### Sort underscore folders first
+### Directory sorting
+
+Sort underscore folders first:
 
 ```bash
 sudo update-locale LC_COLLATE=C
 ```
+
+Sort folders before files:
+- Nautilus -> Preferences -> "Sort folders before files"
 
 ### Change hostname
 
