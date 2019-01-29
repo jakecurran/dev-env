@@ -1,6 +1,0 @@
-Markdown Extended
-MarkdownPreview
-Monokai Extended
-Package Control
-Rust Enhanced
-TOML
