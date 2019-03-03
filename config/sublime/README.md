@@ -1,4 +1,4 @@
 # Sublime Text
 
 - [Preferences](./Preferences.sublime-settings)
-- [Packages list](./packages.txt)
+- [Packages list](./Preferences.sublime-settings)

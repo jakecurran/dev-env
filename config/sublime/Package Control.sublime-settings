@@ -8,6 +8,8 @@
 		"Monokai Extended",
 		"Package Control",
 		"Pretty JSON",
-		"Rust Enhanced"
+		"Rust Enhanced",
+    "TabNine",
+    "TOML"
 	]
 }
