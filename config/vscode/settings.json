@@ -1,6 +1,5 @@
 {
-    "editor.fontFamily": "Hack",
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.insertSpaces": true,
@@ -11,6 +10,14 @@
     "files.eol": "\n",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "workbench.editor.highlightModifiedTabs": true
+    "rust-client.channel": "stable",
+    "rust.mode": "rls",
+    "rust.rls": {
+        "useRustfmt": true
+    },
+    "rust.rustup": {
+        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
+    },
+    "workbench.colorTheme": "One Monokai",
+    "workbench.editor.highlightModifiedTabs": true,
 }
-
