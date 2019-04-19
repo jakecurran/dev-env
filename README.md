@@ -15,6 +15,25 @@ sudo apt update
 sudo apt upgrade
 ```
 
+### Settings
+
+Appearance
+- Slim mode
+  
+Privacy
+- Automatically empty Trash
+- Automatically purge Temporary Files
+- Purge After: 30 days
+
+Power
+- Automatic Suspend
+  - On Battery Power: 20 minutes
+  - Plugged In: 20 minutes
+
+Devices
+- Displays
+  - Night Light: Sunset to Sunrise
+
 ### Directory sorting
 
 Sort underscore folders first:
