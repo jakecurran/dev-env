@@ -45,6 +45,12 @@ To fix,
 
 If setting up a laptop with a trackpad, add three and four finger gestures using [Hikari9/comfortable-swipe-ubuntu](https://github.com/Hikari9/comfortable-swipe-ubuntu).
 
+## Install TexLive
+
+```
+sudo apt install texlive-full
+```
+
 ### Configure Git
 
 Copy Git config file `config/git/.gitconfig` to `~`
@@ -64,15 +70,17 @@ sudo apt install snapd flatpak
 - Audacity
 - BeyondCompare
 - Chromium
+- DB Browser for SQLite
 - GIMP
 - GNOME Tweaks
+- Guake
 - InSync
 - Keybase
-- Slack
 - Spotify
 - Sublime Text
 - VNC Connect
 - VNC Viewer
+- Visual Studio Code
 - WireShark
 
 ## Install Fonts
