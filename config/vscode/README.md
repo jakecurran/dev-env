@@ -9,6 +9,5 @@
 ```bash
 $ code --list-extensions
 azemoh.one-monokai
-kalitaalexey.vscode-rust
 rust-lang.rust
 ```

@@ -11,13 +11,6 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "rust-client.channel": "stable",
-    "rust.mode": "rls",
-    "rust.rls": {
-        "useRustfmt": true
-    },
-    "rust.rustup": {
-        "nightlyToolchain": "nightly-x86_64-unknown-linux-gnu"
-    },
     "workbench.colorTheme": "One Monokai",
     "workbench.editor.highlightModifiedTabs": true,
 }
