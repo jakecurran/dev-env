@@ -5,6 +5,7 @@
     "editor.insertSpaces": true,
     "editor.rulers": [80, 100, 120],
     "editor.scrollBeyondLastLine": true,
+    "editor.tabSize": 4,
     "editor.trimAutoWhitespace": true,
     "editor.wordWrap": "off",
     "files.eol": "\n",
