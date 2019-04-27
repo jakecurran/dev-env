@@ -6,8 +6,7 @@
 
 ## Extensions
 
-```bash
-$ code --list-extensions
-azemoh.one-monokai
-rust-lang.rust
+```
+ext install zhuangtongfa.Material-theme
+ext install rust-lang.rust
 ```
