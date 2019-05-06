@@ -1,15 +1,14 @@
 {
-	"bootstrapped": true,
-	"in_process_packages": [],
-	"installed_packages":
-	[
-		"Markdown Extended",
-		"MarkdownPreview",
-		"Monokai Extended",
-		"Package Control",
-		"Pretty JSON",
-		"Rust Enhanced",
-    "TabNine",
-    "TOML"
-	]
+    "bootstrapped": true,
+    "in_process_packages": [],
+    "installed_packages": [
+        "Markdown Extended",
+        "MarkdownPreview",
+        "Monokai Extended",
+        "Package Control",
+        "Pretty JSON",
+        "Rust Enhanced",
+        "TabNine",
+        "TOML"
+    ]
 }
