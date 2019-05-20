@@ -1,5 +1,5 @@
 {
-    "breadcrumbs.enabled": true,
+    "breadcrumbs.enabled": false,
     "editor.acceptSuggestionOnEnter": "off",
     "editor.detectIndentation": true,
     "editor.fontFamily": "Hack",
@@ -18,7 +18,6 @@
     "editor.scrollBeyondLastLine": true,
     "editor.tabSize": 4,
     "editor.trimAutoWhitespace": true,
-    "editor.renderWhitespace": "all",
     "editor.smoothScrolling": true,
     "editor.wordWrap": "off",
     "explorer.openEditors.visible": 0,
