@@ -86,7 +86,6 @@ sudo apt install snapd flatpak
 
 ## Install Applications
 
-- Alacritty
 - Audacity
 - BeyondCompare
 - Chromium
@@ -96,12 +95,10 @@ sudo apt install snapd flatpak
 - Guake
 - InSync
 - Keybase
-- Neovim
 - Private Internet Access
 - Spotify
 - Sublime Text
 - Sublime Merge
-- tmux
 - VNC Connect
 - VNC Viewer
 - Visual Studio Code
@@ -133,3 +130,18 @@ sudo apt install snapd flatpak
 - Run `vnclicensewiz` and login to RealVNC
 - Start VNC Connect: `sudo systemctl start vncserver-x11-serviced.service`
 - Set to start on login: `sudo systemctl enable vncserver-x11-serviced.service`
+
+## Setup shell
+
+- Alacritty
+- Neovim
+- fish
+
+```fish
+sudo apt install fish
+chsh -s /usr/bin/fish
+```
+
+- oh-my-fish
+- spacefish
+- tmux
