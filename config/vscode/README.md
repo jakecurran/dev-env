@@ -7,8 +7,8 @@
 ## Extensions
 
 ```
-ext install azemoh.one-monokai
 ext install bungcip.better-toml
+ext install jdinhlife.gruvbox
 ext install ms-vscode.cpptools
 ext install ms-vscode.Go
 ext install ms-vsliveshare.vsliveshare

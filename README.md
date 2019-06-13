@@ -19,7 +19,7 @@ sudo apt upgrade
 
 Appearance
 - Slim mode
-  
+
 Privacy
 - Automatically empty Trash
 - Automatically purge Temporary Files
@@ -86,6 +86,7 @@ sudo apt install snapd flatpak
 
 ## Install Applications
 
+- Alacritty
 - Audacity
 - BeyondCompare
 - Chromium
@@ -95,8 +96,12 @@ sudo apt install snapd flatpak
 - Guake
 - InSync
 - Keybase
+- Neovim
+- Private Internet Access
 - Spotify
 - Sublime Text
+- Sublime Merge
+- tmux
 - VNC Connect
 - VNC Viewer
 - Visual Studio Code

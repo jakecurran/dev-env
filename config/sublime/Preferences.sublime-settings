@@ -1,17 +1,20 @@
 {
-  "always_show_minimap_viewport": true,
-  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-  "default_line_ending": "unix",
-  "ensure_newline_at_eof_on_save": true,
-  "font_face": "Hack Regular Nerd Font Complete",
+  "color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+  "font_face": "Hack",
   "font_size": 11,
-  "open_files_in_new_window": false,
   "rulers": [80, 100, 120],
-  "scroll_past_end": true,
   "tab_size": 4,
-  "theme": "Adaptive.sublime-theme",
   "translate_tabs_to_spaces": true,
   "trim_automatic_white_space": false,
+  "word_wrap": "false",
+  "always_show_minimap_viewport": true,
   "trim_trailing_white_space_on_save": true,
-  "word_wrap": "false"
+  "scroll_past_end": true,
+  "ensure_newline_at_eof_on_save": true,
+  "default_line_ending": "unix",
+  "auto_complete": false,
+  "theme": "gruvbox.sublime-theme",
+  "ignored_packages": ["Rust", "Vintage"],
+
+  "gruvbox_tabs_xs": true
 }

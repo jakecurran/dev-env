@@ -2,9 +2,8 @@
     "bootstrapped": true,
     "in_process_packages": [],
     "installed_packages": [
-        "Markdown Extended",
+        "gruvbox",
         "MarkdownPreview",
-        "Monokai Extended",
         "Package Control",
         "Pretty JSON",
         "Rust Enhanced",
