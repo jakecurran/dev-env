@@ -135,13 +135,13 @@ sudo apt install snapd flatpak
 
 - Alacritty
 - Neovim
-- fish
+- zsh
 
-```fish
-sudo apt install fish
-chsh -s /usr/bin/fish
+```bash
+sudo apt install zsh
+chsh -s /usr/bin/zsh
 ```
 
-- oh-my-fish
-- spacefish
+- oh-my-zsh
+- spaceship-prompt
 - tmux
