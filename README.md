@@ -2,7 +2,7 @@
 
 Documentation of my preferred development environment OS, applications, and configuration.
 
-Preferred distro: [Pop!\_OS](https://system76.com/pop)
+Preferred distros: [Pop!\_OS](https://system76.com/pop), [Xubuntu](https://xubuntu.org/)
 
 ## Initial Setup
 
@@ -78,17 +78,10 @@ Copy Git config file `config/git/.gitconfig` to `~`
 
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
-### Install Snap/Flatpak
-
-```bash
-sudo apt install snapd flatpak
-```
-
 ## Install Applications
 
 - Audacity
-- BeyondCompare
-- Chromium
+- Chrome
 - DB Browser for SQLite
 - GIMP
 - GNOME Tweaks
