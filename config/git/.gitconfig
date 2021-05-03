@@ -1,24 +1,28 @@
 [user]
-    name = Jake Curran
-    email = jake@jakecurran.com
-    signingKey = 4A02737CFEE99EF02562463B6BB71F1BE81766E6
-
-[core]
-    editor = vim
-
-[commit]
-    gpgSign = true
-
-[credential]
-    helper = cache --timeout=3600
+	name = Jake Curran
+	email = jake@jakecurran.com
+	signingkey = 6BB71F1BE81766E6
 
 [alias]
-    c = commit
-    s = status
-    st = status
-    lg = log --oneline
-    last = log -1 HEAD
-    difftool = difftool --dir-diff
+	c = commit
+	s = status
+	st = status
+	lg = log --oneline
+	last = log -1 HEAD
+	difftool = difftool --dir-diff
+
+[commit]
+	gpgsign = true
+
+[core]
+	editor = vim
+
+[credential]
+	helper = cache --timeout=3600
 
 [github]
-    user = jakecurran
+	user = jakecurran
+
+[gpg]
+	program = /usr/bin/gpg
+
